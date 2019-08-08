@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: micronaut.bug.bson.discriminator
+---
+testFramework: junit
+sourceLanguage: java
